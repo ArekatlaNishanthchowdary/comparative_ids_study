@@ -4,7 +4,7 @@
 !scripts/
 !scripts/*.py
 !requirements.txt
-!README
+!README.md
 !.gitignore
 
 # experiment outputs backing the paper
