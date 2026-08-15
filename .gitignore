@@ -7,5 +7,9 @@
 !README
 !.gitignore
 
+# experiment outputs backing the paper
+!results/
+!results/*.csv
+
 __pycache__/
 *.pyc
