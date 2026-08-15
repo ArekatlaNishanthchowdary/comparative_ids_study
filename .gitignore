@@ -1,0 +1,11 @@
+# Code only. Everything else stays local.
+*
+!*.py
+!scripts/
+!scripts/*.py
+!requirements.txt
+!README
+!.gitignore
+
+__pycache__/
+*.pyc
